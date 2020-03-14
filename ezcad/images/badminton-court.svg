@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="" id="Layer_1" viewBox="0 0 475 475" x="0px" y="0px" width="512px" height="512px" version="1.1" xml:space="preserve">
+<rect fill='green' width="512px" height="512px" />
+<g transform="matrix(0.921823 0 0 0.921823 18.5671 18.5671)"><g transform="translate(0 -540.36)">
+	<g>
+		<g>
+			<rect class="active-path" x="232.4" y="705.358" width="10.1" height="25.1" fill="white"/>
+			<rect class="active-path" x="232.4" y="785.158" width="10.1" height="25.1" fill="white"/>
+			<rect class="active-path" x="232.4" y="745.458" width="10.1" height="24.7" fill="white"/>
+			<path class="active-path" d="M 0 660.36 v 4.9 v 230.1 h 475 v -235 H 0 Z M 169.8 670.46 h 62.6 v 15 h -62.6 V 670.46 Z M 10.1 782.96 h 15 v 77.2 h -15 V 782.96 Z M 25.1 885.26 h -15 v -15 h 15 V 885.26 Z M 25.1 772.76 h -15 v -77.6 h 15 V 772.76 Z M 25.1 685.46 h -15 v -15 h 15 V 685.46 Z M 160.1 885.26 H 34.9 v -15 h 125.2 V 885.26 Z M 160.1 860.16 H 34.9 v -77.2 h 125.2 V 860.16 Z M 160.1 772.86 H 34.9 v -77.6 h 125.2 V 772.86 Z M 160.1 685.46 H 34.9 v -15 h 125.2 V 685.46 Z M 169.8 860.16 v -164.9 h 135 v 164.9 L 169.8 860.16 L 169.8 860.16 Z M 232.4 885.26 h -62.6 v -15 h 62.6 V 885.26 Z M 304.8 885.26 h -62.2 v -15 h 62.2 V 885.26 Z M 304.8 685.46 h -62.2 v -15 h 62.2 V 685.46 Z M 439.7 885.26 H 314.9 v -15 h 124.8 V 885.26 Z M 439.7 860.16 H 314.9 v -77.2 h 124.8 V 860.16 Z M 439.7 772.86 H 314.9 v -77.6 h 124.8 V 772.86 Z M 439.7 685.46 H 314.9 v -15 h 124.8 V 685.46 Z M 464.9 885.26 h -15 v -15 h 15 V 885.26 Z M 464.9 860.16 h -15 v -77.2 h 15 V 860.16 Z M 464.9 772.76 h -15 v -77.6 h 15 V 772.76 Z M 464.9 685.46 h -15 v -15 h 15 V 685.46 Z" fill="white"/>
+			<rect class="active-path" x="232.4" y="825.258" width="10.1" height="25.1" fill="white"/>
+		</g>
+	</g>
+</g></g> </svg>

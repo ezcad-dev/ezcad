@@ -1,0 +1,10 @@
+{
+    "label": "e000",
+    "shuttlecock": "e001",
+    "cube": "e002",
+    "point": "e003",
+    "gsurf": "e004",
+    "tsurf": "e005",
+    "line": "e006",
+    "ortho": "e007"
+}
